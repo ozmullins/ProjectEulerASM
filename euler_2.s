@@ -31,7 +31,6 @@ loop:
   push %rbx
   push %rdx
 
-here:
   mov $0, %rdx
   mov %rcx, %rax
   mov $2, %rbx        # set up to divide by 2 to see if even
