@@ -7,7 +7,7 @@
 # By considering the terms in the Fibonacci sequence whose values do not exceed four million,
 # find the sum of the even-valued terms.
 #
-# Solution by Joseph Mulins
+# Solution by Joseph Mullins
 # Answer: 4613732
 #
 # Compile with gcc euler_2.s
