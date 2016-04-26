@@ -17,7 +17,7 @@ main:
   mov $20, %r9
 
 next_number:
-  add $20, %r9            # Increment by 5, anything divisble of 1 to 20... must be a multiple of 20
+  add $20, %r9            # Increment by 20, anything divisble of 1 to 20... must be a multiple of 20
   mov $2, %rbx            # start the dividing at 2... everyhings divisble by 1
 
 check_if_divisible_everything_under_20:
